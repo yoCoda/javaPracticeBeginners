@@ -3,6 +3,10 @@ import java.rmi.Remote;
 import java.rmi.Naming;
 import java.rmi.RemoteException;
 //import java.lang.StringBuffer;
+//import java.lang.StringBuffer;
+//import java.lang.StringBuffer;
+//import java.lang.StringBuffer;
+//import java.lang.StringBuffer;
 
 public class MyRmiClient{
 	public static void main(String[] args) throws Exception{
