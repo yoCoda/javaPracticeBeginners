@@ -27,6 +27,8 @@ public class MyStringSort {
 		for(String s: arg) {
 			System.out.println(s);
 		}
+		
+		// write to a file, using PrintStream. 
 		try{
 		FileOutputStream ouf= new FileOutputStream("junk.txt");
 		PrintStream pouf = new PrintStream(ouf);
